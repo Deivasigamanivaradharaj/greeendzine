@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "empid": "1",
+        "name": "Arjun",
+        "DOB": "16-11-2000",
+        "Role": "Software Engineer"
+    },
+    {
+        "id": 2,
+        "empid": "2",
+        "name": "Mahesh",
+        "DOB": "15-01-2000",
+        "Role": "Web developer"
+    },
+    {
+        "id": 3,
+        "empid": "3",
+        "name": "Kumar",
+        "DOB": "21-12-2000",
+        "Role": "Full stack developer"
+    },
+    {
+        "id": 4,
+        "empid": "4",
+        "name": "Sheela",
+        "DOB": "23-05-2001",
+        "Role": "Network Engineer"
+    },
+    {
+        "id":5,
+        "empid": "5",
+        "name": "Suresh",
+        "DOB": "01-01-2000",
+        "Role": "Android developer"
+    }
+]
